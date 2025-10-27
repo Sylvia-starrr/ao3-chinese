@@ -1,0 +1,124 @@
+// 元数据区
+版本号：1.5.7
+维护者：大魔法师梅林的好日子在哪里
+更新时间：2024-12-19
+
+词条
+// 人名 - 区分大小写
+Merlin: 梅林
+Emrys: 艾米雷斯
+Arthur: 亚瑟
+Uther: 乌瑟
+Pendragon: 潘德拉贡
+Arthur Pendragon：亚瑟·潘德拉贡
+Uther Pendragon：乌瑟·潘德拉贡
+Nimueh: 妮薇
+Morgana: 莫甘娜
+Gwen: 格温
+Gaius: 盖乌斯
+Kilgharrah: 基哈拉
+Leon: 莱昂
+Percival: 珀西瓦尔
+Gwaine: 高汶
+Lancelot: 兰斯洛特
+Elyan: 伊兰
+Morgause: 莫高斯
+Guinevere: 格温娜维尔
+Mordred: 莫德雷德
+Aithusa: 艾苏萨
+Hunith: 胡妮丝
+Agravaine: 阿古温
+Balinor: 巴林诺
+Mithian: 米希安
+Freya: 芙蕾雅
+Geoffrey: 乔弗里
+George: 乔治
+Gorlois: 格洛伊斯
+Ygraine: 伊格莱恩
+Vernell: 弗内尔
+Aglain: 阿格兰
+Aida: 艾达
+Hengroen: 亨格伦
+Taliesin: 塔利辛
+Cornelius: 科尼利厄斯
+Sigan: 塞亘
+Dorocha: 老妪
+Ashkanar: 阿什科那
+Matthew: 马修
+Pellinor: 佩林诺
+Cedric: 塞德里克
+Anebai: 安妮贝
+Mathon: 马松
+Alined: 阿林德
+Oren: 奥伦
+Owain: 欧文
+Evandine: 伊万汀
+Selfett: 塞尔菲特
+Runyette: 鲁涅特
+Petra: 佩特拉
+Alma: 阿尔玛
+Ishti: 伊斯提
+Meriadoc: 梅里
+Iseldir: 伊斯尔德
+Paget: 佩吉特
+Mellifor: 梅利弗
+Fennis: 芬尼斯
+Prisset: 普里塞特
+Ivellen: 伊夫伦
+Godwyn: 戈得温
+Bors: 博斯
+Winith: 威尼思
+
+通用词条
+// 通用概念 - 不区分大小写
+sorcerer: 巫师
+warlock: 法师
+Blessed Isle: 神佑岛
+Excalibur: 王者之剑
+Dragon Lord: 御龙者
+Questing Beast: 寻水兽
+Blessed Isle: 神佑岛
+Afanc: 阿梵克
+Albion: 阿尔比恩
+Camelot: 卡梅洛特
+Ealdor: 埃尔多
+Essetir: 埃塞提尔
+ogham: 欧甘
+Mercia: 麦西亚
+Sidhe: 希德
+Nemeth: 内梅斯
+Gawant: 高文特
+Cenred: 森瑞德
+Bayard: 贝亚德
+Deorham: 迪勒姆
+Alba: 阿尔巴
+Cup of Life: 生命之杯
+Banador: 巴纳多
+The Horn of Cathbhadh: 卡斯拜德号角
+Avalon: 阿瓦隆
+Valley of the Fallen Kings: 陨王峡谷
+Withered Woods: 枯萎之林
+Samhain: 萨温节
+Yule: 尤尔节
+Fomorroa: 多头魔蛇
+Camlaan: 剑栏之战
+Imbolc: 伊姆博尔克节
+Vinthinsor: 文辛索咒
+Cairnstone Forest: 凯恩石森林
+Weald Gate: 威尔德门
+triskelion: 三旋壁
+Beltane: 贝尔坦节
+the Necrolich: 死灵法器
+Rowan Staff: 山梨木杖
+Ashanker: 阿什科那
+trepanning: 环钻术
+Rethula: 瑞苏拉水晶球
+Styx: 冥河
+Wincanton: 温坎顿
+ 
+禁翻词条
+// 保持原文的词汇 - 区分大小写
+Fȳrmóna
+
+正则表达式
+// 复杂规则匹配
