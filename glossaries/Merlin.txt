@@ -1,6 +1,6 @@
 // 元数据区
 版本号：1.5.7
-维护者：大魔法师梅林的好日子在哪里
+维护者：宫廷巫师梅林
 更新时间：2024-12-19
 
 词条
@@ -17,6 +17,7 @@ Morgana: 莫甘娜
 Gwen: 格温
 Gaius: 盖乌斯
 Kilgharrah: 基哈拉
+Kilgahrragh: 基哈拉
 Leon: 莱昂
 Percival: 珀西瓦尔
 Gwaine: 高汶
@@ -43,6 +44,7 @@ Taliesin: 塔利辛
 Cornelius: 科尼利厄斯
 Sigan: 塞亘
 Dorocha: 老妪
+Anhora: 安霍拉
 Ashkanar: 阿什科那
 Matthew: 马修
 Pellinor: 佩林诺
@@ -69,13 +71,19 @@ Godwyn: 戈得温
 Bors: 博斯
 Winith: 威尼思
 
+
 通用词条
 // 通用概念 - 不区分大小写
 sorcerer: 巫师
 warlock: 法师
+Court Sorcerer: 宫廷法师
 Blessed Isle: 神佑岛
 Excalibur: 王者之剑
 Dragon Lord: 御龙者
+Dragonlord: 御龙者
+King Arthur: 亚瑟王
+great dragon: 巨龙
+lord: 大人
 Questing Beast: 寻水兽
 Blessed Isle: 神佑岛
 Afanc: 阿梵克
@@ -110,9 +118,6 @@ triskelion: 三旋壁
 Beltane: 贝尔坦节
 the Necrolich: 死灵法器
 Rowan Staff: 山梨木杖
-Ashanker: 阿什科那
-trepanning: 环钻术
-Rethula: 瑞苏拉水晶球
 Styx: 冥河
 Wincanton: 温坎顿
  
