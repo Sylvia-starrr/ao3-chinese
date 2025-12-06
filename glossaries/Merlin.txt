@@ -1,129 +1,470 @@
-// 元数据区
-版本号：1.5.7
-维护者：宫廷巫师梅林
-更新时间：2024-12-19
+版本号：1.5.8
+维护者：宫廷法师梅林
+更新时间：2025-12-06
+
+// ============================================================
+// 人名（区分大小写）
+// ============================================================
 
 词条
-// 人名 - 区分大小写
-Merlin: 梅林
-Emrys: 艾米雷斯
-Arthur: 亚瑟
-Uther: 乌瑟
-Pendragon: 潘德拉贡
-Arthur Pendragon：亚瑟·潘德拉贡
-Uther Pendragon：乌瑟·潘德拉贡
-Nimueh: 妮薇
-Morgana: 莫甘娜
-Gwen: 格温
-Gaius: 盖乌斯
-Kilgharrah: 基哈拉
-Kilgahrragh: 基哈拉
-Leon: 莱昂
-Percival: 珀西瓦尔
-Gwaine: 高汶
-Lancelot: 兰斯洛特
-Elyan: 伊兰
-Morgause: 莫高斯
-Guinevere: 格温娜维尔
-Mordred: 莫德雷德
-Aithusa: 艾苏萨
-Hunith: 胡妮丝
-Agravaine: 阿古温
-Balinor: 巴林诺
-Mithian: 米希安
-Freya: 芙蕾雅
-Geoffrey: 乔弗里
-George: 乔治
-Gorlois: 格洛伊斯
-Ygraine: 伊格莱恩
-Vernell: 弗内尔
-Aglain: 阿格兰
-Aida: 艾达
-Hengroen: 亨格伦
-Taliesin: 塔利辛
-Cornelius: 科尼利厄斯
-Sigan: 塞亘
-Dorocha: 老妪
-Anhora: 安霍拉
-Ashkanar: 阿什科那
-Matthew: 马修
-Pellinor: 佩林诺
-Cedric: 塞德里克
-Anebai: 安妮贝
-Mathon: 马松
-Alined: 阿林德
-Oren: 奥伦
-Owain: 欧文
-Evandine: 伊万汀
-Selfett: 塞尔菲特
-Runyette: 鲁涅特
-Petra: 佩特拉
-Alma: 阿尔玛
-Ishti: 伊斯提
-Meriadoc: 梅里
-Iseldir: 伊斯尔德
-Paget: 佩吉特
-Mellifor: 梅利弗
-Fennis: 芬尼斯
-Prisset: 普里塞特
-Ivellen: 伊夫伦
-Godwyn: 戈得温
-Bors: 博斯
-Winith: 威尼思
+// -------------------- 主要角色成员 --------------------
+Arthur Pendragon = 亚瑟·潘德拉贡
+Merlin：梅林
+Emrys：艾莫瑞斯
+Uther Pendragon = 乌瑟·潘德拉贡
+Morgana Pendragon = 莫甘娜·潘德拉贡
+Guinevere：格温娜维尔
+Gwen：格温
+Gaius：盖乌斯
 
+// -------------------- 圆桌骑士与重要骑士 --------------------
+Lancelot：兰斯洛特
+Gwaine：高汶
+Percival：珀西瓦尔
+Elyan：伊兰
+Leon：莱昂
+Bedivere：贝迪维尔
+Tristan de Bois：特里斯坦·德·布瓦
+Tristan：特里斯坦
+Owain：欧文
+Owen：欧文
+
+// -------------------- 魔法侧核心人物 --------------------
+Morgause：莫高斯
+Nimueh：妮薇
+Mordred：莫德雷德
+Kilgharrah：基哈拉
+The Great Dragon：巨龙
+Dragoon the Great：龙大王
+Freya：芙蕾雅
+Balinor：巴利诺
+Taliesin：塔列辛
+Isolde：伊索尔德
+Mithian：米希安
+Aithusa：艾苏萨
+Hunith：胡妮丝
+Geoffrey：杰弗里
+Alator：阿拉陀
+Sophia：索菲娅
+Elena：埃琳娜
+Gilli：吉利
+Grunhilda：格伦希尔达
+Catrina：卡特里娜
+Mary Collins = 玛丽·柯林斯
+Sefa：塞法
+Kara：卡拉
+Vivian：薇薇安
+
+// -------------------- 德鲁伊、先知与长老 --------------------
+Aglain：伊格莱恩
+Iseldir：伊塞迪尔
+Anhora：安霍拉
+Cailleach：凯莱克
+Dochraid：多克雷德
+Finna：芬娜
+
+// -------------------- 领主、国王与反派 --------------------
+Cenred：森瑞德
+Sarrum：萨鲁姆
+Odin：奥丁
+Helios：赫利俄斯
+Hengist：亨吉斯特
+Alined：阿利内德
+Lot：洛特
+Bayard：贝亚德
+Olaf：奥拉夫
+Agravaine：阿古温
+Aredian：阿雷迪安
+Valiant：瓦利安特
+Tauren：陶伦
+Edwin Muirden = 埃德温·缪尔登
+Cornelius Sigan = 科尼利厄斯·塞亘
+Trickler：特里克勒
+Julius Borden = 朱利叶斯·博登
+
+// -------------------- 其他人物（按字母顺序） --------------------
+Agravaine：阿古温
+Albin：阿尔宾
+Alice：爱丽丝
+Alrick：阿里克
+Althild：阿尔希尔德
+Alvarr：阿尔瓦
+Alynor / Alinor：阿莉诺尔
+Annie：安妮
+Annis：安妮丝
+Ari：阿里
+Asgerd：阿斯格德
+Ashkanar：阿什卡纳
+Atorloppe：阿托洛普
+Audrey：奥德丽
+Aulfric：奥尔夫里克
+Beatrice：比阿特丽斯
+Befelen：贝弗林
+Beroun：贝伦
+Bertrand：伯特兰
+Bolg：博尔格
+Brennis：布伦尼斯
+Bronwen：布朗温
+Bruta：布鲁塔
+Cador：卡多
+Caerleon：卡尔莱恩
+Caridoc：卡里多克
+Cathryn：凯瑟琳
+Cedric：塞德里克
+Cerdan：瑟丹
+Cylferth：希尔弗斯
+Daegal：戴加尔
+Dagr：达格
+Darien / Derian：达里恩 / 德里安
+Devlin：德夫林
+Diamair：迪亚迈尔
+Dolma：多尔玛
+Drea：德雷娅
+Ebor：埃博尔
+Eira：埃拉
+Eldred：埃尔德雷德
+Enmyria：恩米里亚
+Ethan：伊森
+Evan：埃文
+Evoric：埃沃里克
+Ewan：伊万
+Fermin：费尔明
+Fisher King：渔人王
+Forridel：弗里德尔
+Fyren / Fyrien：费里恩
+Gelda Seward = 盖尔达·休沃德
+Geraint：杰兰特
+Gerin：格林
+Godwyn：戈德温
+Grettir：格雷蒂尔
+Halig：哈利格
+Helen：海伦
+Hilda：希尔达
+Innkeeper：旅店老板
+Iglain：伊格莱恩
+Jaden Muirden = 贾登·缪尔登
+Jarl：亚尔
+John Howden = 约翰·豪登
+Jonas：乔纳斯
+Joseph：约瑟夫
+Kanen：卡嫩
+Kelda：凯尔达
+Kendrick：肯德里克
+Gormause：戈莫斯
+Lamia：拉米娅
+Lochru：洛克鲁
+Mab：麦布
+Mary Howden = 玛丽·豪登
+Matthew：马修
+Medhir：梅德希尔
+Montague：蒙太古
+Morris：莫里斯
+Myror：米洛尔
+Niede：尼德
+Nollar：诺拉尔
+Olwin：奥尔温
+Orn：奥恩
+Osgar：奥斯加
+Oswald：奥斯瓦尔德
+Pellinore：佩利诺尔
+Radnor：拉德诺
+Ragnor：拉格诺
+Ranulf：兰努夫
+Robert：罗伯特
+Rodor：罗德
+Rose：罗斯
+Rowena：罗薇娜
+Ruadan：鲁阿丹
+Simmons：西蒙斯
+Sindri：辛德里
+Terence：特伦斯
+Thomas Collins = 托马斯·柯林斯
+Tindr：廷德
+Tom：汤姆
+Tristan：特里斯坦
+Tyr Seward = 提尔·休沃德
+Valdis：瓦尔迪斯
+Vidia：维迪娅
+Vidor：维多
+William：威廉
+
+
+Will：威尔
+
+// ============================================================
+// 魔法、生物与超自然概念（不区分大小写）
+// ============================================================
 
 通用词条
-// 通用概念 - 不区分大小写
-sorcerer: 巫师
-warlock: 法师
-Court Sorcerer: 宫廷法师
-Blessed Isle: 神佑岛
-Excalibur: 王者之剑
-Dragon Lord: 御龙者
-Dragonlord: 御龙者
-King Arthur: 亚瑟王
-great dragon: 巨龙
-lord: 大人
-Questing Beast: 寻水兽
-Blessed Isle: 神佑岛
-Afanc: 阿梵克
-Albion: 阿尔比恩
-Camelot: 卡梅洛特
-Ealdor: 埃尔多
-Essetir: 埃塞提尔
-ogham: 欧甘
-Mercia: 麦西亚
-Sidhe: 希德
-Nemeth: 内梅斯
-Gawant: 高文特
-Cenred: 森瑞德
-Bayard: 贝亚德
-Deorham: 迪勒姆
-Alba: 阿尔巴
-Cup of Life: 生命之杯
-Banador: 巴纳多
-The Horn of Cathbhadh: 卡斯拜德号角
-Avalon: 阿瓦隆
-Valley of the Fallen Kings: 陨王峡谷
-Withered Woods: 枯萎之林
-Samhain: 萨温节
-Yule: 尤尔节
-Fomorroa: 多头魔蛇
-Camlaan: 剑栏之战
-Imbolc: 伊姆博尔克节
-Vinthinsor: 文辛索咒
-Cairnstone Forest: 凯恩石森林
-Weald Gate: 威尔德门
-triskelion: 三旋壁
-Beltane: 贝尔坦节
-the Necrolich: 死灵法器
-Rowan Staff: 山梨木杖
-Styx: 冥河
-Wincanton: 温坎顿
- 
-禁翻词条
-// 保持原文的词汇 - 区分大小写
-Fȳrmóna
+// -------------------- 魔法使用者与存在 --------------------
+Sorcerer：巫师
+Sorceress：女巫
+Warlock：法师
+Witch：女巫
+Dragonlord：御龙者
+Dragon Lord：御龙者
+Dragoon：御龙者
+High Priestess：高阶女祭司
+Seer：先知
+Changeling：换生灵
+Shade：影身
+Wraith：怨灵
+Spirit：灵体
+Soothsayer：预言者
+
+// -------------------- 魔法生物 --------------------
+Afanc：阿梵克
+Bastet：贝斯特
+Creatures Of Magic：魔法生物
+Diamair：狄亚迈尔
+Dorocha：暗灵
+Dragon：龙
+Elanthia Beetle：埃兰西亚甲虫
+Fomorroh：多头魔蛇
+Gargoyle：石像鬼
+Gean Canach：吉恩卡纳
+Goblin：哥布林
+Griffin：狮鹫
+Lamia：拉弥亚
+Manticore：蝎尾狮
+Nathair：纳赛尔蛇
+Phoenix：凤凰
+Pixie：小精灵
+Questing Beast：寻水兽
+Sidhe：希德
+Sidhe Elder：希德长老
+Troll：穴居怪
+Undead Skeletons：不死亡灵
+Unicorn：独角兽
+Vilia：溪流女神
+Wyvern：双足飞龙
+
+// -------------------- 魔法、宗教与组织 --------------------
+Old Religion：古教
+Triple Goddess：三面女神
+Court：宫廷
+Round Table：圆桌骑士
+Knights Of The Round Table：圆桌骑士
+Magic：魔法
+Queen Mab：麦布女王
+
+// ============================================================
+// 地点与王国（不区分大小写）
+// ============================================================
+
+通用词条
+// -------------------- 核心王国与领地 --------------------
+Camelot：卡梅洛特
+Albion：阿尔比恩
+Caerleon：凯尔里昂
+Mercia：麦西亚
+Nemeth：内梅斯
+Gawant：加旺特
+Amata：阿马塔
+Tír-Mòr：提尔莫尔
+
+// -------------------- 重要城镇、村庄与地点 --------------------
+Ealdor：埃尔多
+Lower Town：下城区
+The Rising Sun：旭日酒馆
+Mary's Tavern：玛丽的小酒馆
+Stonedown：石丘镇
+Willowdale：柳镇
+Wenham：温纳姆
+Howden：豪登
+Longstead：朗斯特德
+Stowell：斯托威尔
+Everwick：埃弗威克
+Ashwick：阿什威克
+Wincanton：温坎顿
+Angard：安加德
+
+// -------------------- 森林、山脉与自然区域 --------------------
+Darkling Woods：暗影森林
+Forest Of Ascetir：阿斯凯提尔森林
+Forest Of Balor：巴洛尔之森
+Forest Of Gedref：盖德雷夫森林
+Valley Of The Fallen Kings：陨王峡谷
+Lake Of Avalon：阿瓦隆湖
+Black Mountains：黑山
+White Mountains：白山
+Feorre Mountains：费奥雷山脉
+Mountains Of Asgorath：阿斯戈拉斯山脉
+Northern Plains：北方平原
+Dollares Plains：多拉雷斯平原
+Plains Of Denaria：德纳里亚平原
+Vale Of Denaria：德纳里亚谷地
+Valley Of Chemary：谢马里山谷
+Ridge Of Chemary：谢马里山脊
+Ridge Of Landshire：兰德郡山脊
+Grove Of Brineved：布里内维德林地
+Forest Of Brechfa：布雷赫法森林
+Forest Of Gedney：盖德尼森林
+Forest Of Glaestig：格莱斯蒂格森林
+Forest Of Merendra：梅伦德拉森林
+Impenetrable Forest：不可穿越之林
+
+// -------------------- 城堡、要塞与建筑 --------------------
+Citadel：主堡
+Arthur's Chambers：亚瑟寝宫
+Royal Library：皇家图书馆
+Dungeon：地牢
+Burial Vault：墓室
+Castle Of Fyrien：费里恩城堡
+Fortress Of Ismere：伊斯米尔要塞
+Hengist's Fortress：亨吉斯特要塞
+Jarl's Fortress：杰尔要塞
+The Dark Tower：暗黑之塔
+Watchtower：瞭望塔
+Duelling Pitch：决斗场
+Jousting Pitch：骑士比武场
+Market：集市
+Helios' Camp：赫利俄斯营地
+
+// -------------------- 洞穴、迷宫与异界 --------------------
+Crystal Cave：水晶洞穴
+Dragon's Cave：巨龙洞穴
+Druids' Cave：德鲁伊洞穴
+Labyrinth Of Gedref：盖德雷夫迷宫
+Tunnels Of Andor：安多尔地道
+Balor：巴洛尔
+Camlann：剑栏
+Isle Of The Blessed：神佑之岛
+Isle Of Mora：莫拉岛
+Western Isles：西部诸岛
+Spirit World：灵界
+Perilous Lands：危险之地
+Land Of Myth：神话之地
+
+// -------------------- 圣地、神庙与遗迹 --------------------
+Druid Shrine：德鲁伊祭坛
+Great Stones Of Nemeton：涅梅顿巨石阵
+Temple Of Earu：埃鲁神庙
+Tomb Of Ashkanar：阿什卡纳之墓
+King Loath's Tomb：洛斯王之墓
+Pool Of Nemhain：内姆海恩之池
+Cauldron Of Arianrhod：阿里安赫罗德之釜
+Catacombs：地下墓穴
+Othanden：奥桑登
+Asgorath：阿斯戈拉斯
+Engerd：恩格德
+Helva：赫尔瓦
+Idirsholas：伊迪尔休拉斯
+Daobeth：达奥贝斯
+Odin's Kingdom：奥丁王国
+Mountains Of Isgaard：伊斯加德山脉
+Greenswood：绿木林
+Meredor：梅雷多尔
+Caerlanrigh：凯尔兰里赫
+
+// ============================================================
+// 魔法物品、典籍与仪式（不区分大小写）
+// ============================================================
+
+通用词条
+// -------------------- 武器、圣器与关键物品 --------------------
+Excalibur：王者之剑
+Cup Of Life：生命之杯
+Crystal Of Neahtid：尼雅德水晶
+Horn Of Cathbhadh：卡斯拜德号角
+Avalon Vial：阿瓦隆圣瓶
+Magic Mirror：魔镜
+Manticore's Box：蝎尾狮之匣
+Rowan Staff：花楸木法杖
+Sidhe Staff：希德法杖
+Lead Box：铅盒
+Runemark：符文币
+Triskelion：三旋璧
+Pentacle：五芒星
+
+// -------------------- 魔法典籍与材料 --------------------
+Books Of Sorcery：魔法典籍
+The Art Of Necromancy：《死灵术之书》
+Magical Potions：魔药
+Mandrake Root：曼德拉根
+
+// -------------------- 节日、仪式与事件 --------------------
+Beltane：五朔节
+Samhain：萨温节
+Yule：尤尔节
+Festival Of Ostara：奥斯塔拉节
+Coronations：加冕礼
+Heir's Quest：继承人试炼
+Knighthood Ceremony：骑士册封礼
+Quest Ritual：试炼仪式
+Tournaments：比武大会
+Peace Of The Five Kingdoms：五国和平协定
+Purge：大清洗
+
+// ============================================================
+// 职业、身份与群体（不区分大小写）
+// ============================================================
+
+通用词条
+Guard：守卫
+Sentry：哨兵
+Steward：管家
+Stallholder：摊主
+The Apothecary：药剂师
+The Gleeman：吟游艺人
+Madhavi People：玛达维族人
+Saxons：撒克逊人
+Southrons：南方人
+Knights Of Medhir：梅德希尔骑士
+Blood Guard：血卫
+Charcoal Maker：烧炭人
+Circus Group：马戏团
+Executioner：行刑者
+Ferryman：船夫
+Hangman：刽子手
+King Gormause：戈莫斯国王
+
+// ============================================================
+// 正则表达式区（用于处理复杂或变体拼写）
+// ============================================================
 
 正则表达式
-// 复杂规则匹配
+// 处理“御龙者”的不同写法
+[dD]ragoon(s)?: 御龙者
+// 处理“希德”长老
+[Ss]idhe [Ee]lder(s)?: 希德长老
+// 处理“灵体/幽灵”相关词汇
+[Gg]host(s)?|[Ss]pirit(s)?: 灵体
+// 处理“暗灵”
+[Dd]orocha(s)?: 暗灵
+// 处理“影身/化身”
+[Ss]hade(s)?: 影身
+// 处理“lord”作为称呼时的基本翻译（注意：可能不适用于所有上下文，如地名）
+\blord\b: 大人
+// 处理Vinthinsor咒语提及
+[Vv]inthinsor: 文辛索咒
+// 处理disir（命运女神）的提及
+[Dd]isir: 迪希尔
+// 处理冥河Styx
+[Ss]tyx: 冥河
+// 处理帷幕
+[Tt]he [Vv]eil: 帷幕
+// 处理加冕复数
+[Cc]oronation(s)?: 加冕礼
+// 处理比武大会复数
+[Tt]ournament(s)?: 比武大会
+// 处理血卫复数
+[Bb]lood [Gg]uard(s)?: 血卫
+// 处理马戏团复数
+[Cc]ircus [Gg]roup(s)?: 马戏团
+// 处理“寻水兽”的变体拼写（包含空格或连字符）
+[Qq]uesting[- ]?[Bb]east: 寻水兽
+// 处理“神佑之岛”的变体拼写（包含定冠词、大小写变化）
+[tT]he?[- ]?[Ii]sle[- ]?of[- ]?[tT]he?[- ]?[Bb]lessed: 神佑之岛
+// 处理“阿瓦隆湖”的常见变体
+[Ll]ake[- ]?of[- ]?[Aa]valon: 阿瓦隆湖
+// 处理“龙大王”的变体
+[Dd]ragoon[- ]?[Tt]he[- ]?[Gg]reat: 龙大王
+// 处理“尼雅德水晶”的常见变体
+[Cc]rystal[- ]?of[- ]?[Nn]eahtid: 尼雅德水晶
+// 处理“生命之杯”的常见变体
+[Cc]up[- ]?of[- ]?[Ll]ife: 生命之杯
+// 处理“王者之剑”的常见变体
+[Ee]xcalibur|[Pp]endragon['s]?[- ][Ss]word: 王者之剑
+// 处理“圆桌骑士”的常见变体（包含连字符）
+[Rr]ound[- ]?[Tt]able[- ]?[Kk]night(s)?: 圆桌骑士
